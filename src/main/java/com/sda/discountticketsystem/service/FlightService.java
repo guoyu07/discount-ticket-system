@@ -1,4 +1,4 @@
-package com.sda.discountTkt.service;
+package com.sda.discountticketsystem.service;
 
 import org.springframework.stereotype.Service;
 

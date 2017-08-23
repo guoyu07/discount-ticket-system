@@ -1,4 +1,4 @@
-package com.sda.discountTkt.mapper;
+package com.sda.discountticketsystem.mapper;
 
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;

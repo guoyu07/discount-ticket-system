@@ -1,0 +1,8 @@
+spring:
+    datasource:
+        name: test
+        url: jdbc:mysql://local:3306/discount-ticket-system
+        username: root
+        password: j987jklnm
+        driver-class-name: com.mysql.jdbc.Driver
+

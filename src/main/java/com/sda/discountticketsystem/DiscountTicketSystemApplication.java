@@ -1,4 +1,4 @@
-package com.sda.discountTkt;
+package com.sda.discountticketsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
