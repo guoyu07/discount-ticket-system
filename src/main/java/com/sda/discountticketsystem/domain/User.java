@@ -1,4 +1,4 @@
-package com.sda.discountticketsystem.entity;
+package com.sda.discountticketsystem.domain;
 
 /**
  * Created by Allen on 2017/8/23.
